@@ -19,7 +19,7 @@
         "element.background": "#3d4851",
         "element.hover": "#3d485150",
         "element.active": "#3d485175",
-        "element.selected": "#5fb3b3",
+        "element.selected": "#7ec2c2",
         "element.disabled": "#3d485150",
         "drop_target.background": "#88c0d099",
         "ghost_element.background": null,
@@ -28,7 +28,7 @@
         "ghost_element.selected": "#373a3f",
         "ghost_element.disabled": null,
         "text": "#f6f7f9",
-        "text.muted": "#f6f7f975",
+        "text.muted": "#f6f7f985",
         "text.placeholder": "#f6f7f950",
         "text.disabled": "#f6f7f950",
         "text.accent": "#ffffff",
@@ -75,19 +75,19 @@
         "terminal.ansi.red": "#bf616a",
         "terminal.ansi.bright_red": "#bf616a",
         "terminal.ansi.dim_red": null,
-        "terminal.ansi.green": "#99c794",
-        "terminal.ansi.bright_green": "#99c794",
+        "terminal.ansi.green": "#9eca99",
+        "terminal.ansi.bright_green": "#9eca99",
         "terminal.ansi.dim_green": null,
         "terminal.ansi.yellow": "#ebcb8b",
         "terminal.ansi.bright_yellow": "#ebcb8b",
         "terminal.ansi.dim_yellow": null,
-        "terminal.ansi.blue": "#6699cc",
-        "terminal.ansi.bright_blue": "#6699cc",
+        "terminal.ansi.blue": "#7faad5",
+        "terminal.ansi.bright_blue": "#7faad5",
         "terminal.ansi.dim_blue": null,
         "terminal.ansi.magenta": "#b48ead",
         "terminal.ansi.bright_magenta": "#b48ead",
         "terminal.ansi.dim_magenta": null,
-        "terminal.ansi.cyan": "#5fb3b3",
+        "terminal.ansi.cyan": "#7ec2c2",
         "terminal.ansi.bright_cyan": "#8fbcbb",
         "terminal.ansi.dim_cyan": null,
         "terminal.ansi.white": "#e5e9f0",
@@ -97,7 +97,7 @@
         "conflict": null,
         "conflict.background": null,
         "conflict.border": null,
-        "created": "#99c794",
+        "created": "#9eca99",
         "created.background": null,
         "created.border": null,
         "deleted": "#bf616a",
@@ -180,11 +180,11 @@
         ],
         "syntax": {
           "attribute": {
-            "color": "#c594c5",
+            "color": "#c396c3",
             "font_style": "italic"
           },
           "boolean": {
-            "color": "#ec5f67",
+            "color": "#e4797e",
             "font_style": "italic"
           },
           "comment": {
@@ -195,61 +195,66 @@
             "color": "#8f97a8",
             "font_style": "italic"
           },
-          "constant": {},
+          "constant": {
+            "color": "#ffffff"
+          },
           "constructor": {
-            "color": "#ec5f67"
+            "color": "#e4797e"
           },
           "function": {
-            "color": "#5fb3b3"
+            "color": "#7ec2c2"
           },
           "keyword": {
-            "color": "#c594c5",
+            "color": "#c396c3",
             "font_style": "italic"
           },
           "link_text": {
-            "color": "#6699cc"
+            "color": "#7faad5"
           },
           "link_uri": {
-            "color": "#6699cc"
+            "color": "#7faad5"
           },
           "number": {
-            "color": "#f9ae58"
+            "color": "#ecb97f"
           },
           "operator": {
-            "color": "#ef8b67"
+            "color": "#f19776"
           },
-          "property": {},
+          "property": {
+            "color": "#ffffff"
+          },
           "punctuation": {
             "color": "#ffffff"
           },
           "string": {
-            "color": "#99c794"
+            "color": "#9eca99"
           },
           "string.escape": {
-            "color": "#c594c5"
+            "color": "#c396c3"
           },
           "string.regex": {
-            "color": "#99c794"
+            "color": "#9eca99"
           },
           "string.special": {
-            "color": "#99c794"
+            "color": "#9eca99"
           },
           "string.special.symbol": {
-            "color": "#99c794"
+            "color": "#9eca99"
           },
           "tag": {
-            "color": "#ec5f67"
+            "color": "#e4797e"
           },
           "text.literal": {
-            "color": "#99c794"
+            "color": "#9eca99"
           },
           "type": {
-            "color": "#f9ae58",
-            "font_style": "italic"
+            "color": "#ecb97f"
           },
-          "variable": {},
+          "variable": {
+            "color": "#d8dde5"
+          },
           "variable.special": {
-            "color": "#87a0db"
+            "color": "#ffffff"
           }
         }
       }
