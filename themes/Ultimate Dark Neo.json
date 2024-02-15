@@ -78,8 +78,8 @@
         "terminal.ansi.green": "#9eca99",
         "terminal.ansi.bright_green": "#9eca99",
         "terminal.ansi.dim_green": null,
-        "terminal.ansi.yellow": "#ebcb8b",
-        "terminal.ansi.bright_yellow": "#ebcb8b",
+        "terminal.ansi.yellow": "#ecc285",
+        "terminal.ansi.bright_yellow": "#ecc285",
         "terminal.ansi.dim_yellow": null,
         "terminal.ansi.blue": "#7faad5",
         "terminal.ansi.bright_blue": "#7faad5",
@@ -118,7 +118,7 @@
         "info": null,
         "info.background": null,
         "info.border": null,
-        "modified": "#ebcb8b",
+        "modified": "#ecc285",
         "modified.background": null,
         "modified.border": null,
         "predictive": null,
@@ -133,9 +133,9 @@
         "unreachable": null,
         "unreachable.background": null,
         "unreachable.border": null,
-        "warning": "#ebcb8b",
+        "warning": "#ecc285",
         "warning.background": null,
-        "warning.border": "#ebcb8b00",
+        "warning.border": "#ecc28500",
         "players": [
           {
             "cursor": "#f5f6f8aa",
@@ -215,7 +215,7 @@
             "color": "#7faad5"
           },
           "number": {
-            "color": "#ecb97f"
+            "color": "#ecc285"
           },
           "operator": {
             "color": "#f19776"
@@ -248,7 +248,7 @@
             "color": "#9eca99"
           },
           "type": {
-            "color": "#ecb97f"
+            "color": "#ecc285"
           },
           "variable": {
             "color": "#d8dde5"
