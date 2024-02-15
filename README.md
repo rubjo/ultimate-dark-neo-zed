@@ -1,4 +1,4 @@
 # ultimate-dark-neo-zed
 Port of [Ultimate Dark Neo](https://github.com/rubjo/ultimate-dark-neo) to Zed editor
 
-<img width="1451" alt="SCR-20240208-llre" src="https://github.com/rubjo/ultimate-dark-neo-zed/assets/42270947/fc98282e-7cc9-4d18-a842-653325f2d4c7">
+<img width="1859" alt="SCR-20240215-ibmq" src="https://github.com/rubjo/ultimate-dark-neo-zed/assets/42270947/ef033173-f266-4eab-9fe0-f13fadd0a28d">
