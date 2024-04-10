@@ -3,4 +3,5 @@ Port of [Ultimate Dark Neo](https://github.com/rubjo/ultimate-dark-neo) to [Zed]
 
 Font used in screenshot is [Victor Mono](https://rubjo.github.io/victor-mono/).
 
-<img width="1650" alt="SCR-20240215-idvr" src="https://github.com/rubjo/ultimate-dark-neo-zed/assets/42270947/f6c4de59-78c4-40ac-aad6-fc4d56fa18ba">
+<img width="1543" alt="SCR-20240410-hvhv" src="https://github.com/rubjo/ultimate-dark-neo-zed/assets/42270947/1af9bc9a-2687-44d0-9498-5c636b975b68">
+
