@@ -1,0 +1,5 @@
+authors = ["Rune B"]
+description = "A muted and pleasant dark theme for Zed with some italics to distinguish certain parts of the syntax. Designed for use with the programming font Victor Mono."
+name = "Ultimate Dark Neo"
+repository = "https://github.com/rubjo/ultimate-dark-neo-zed"
+version = "0.0.5"
