@@ -4,4 +4,4 @@ id = "ultimate-dark-neo"
 name = "Ultimate Dark Neo"
 repository = "https://github.com/rubjo/ultimate-dark-neo-zed"
 schema_version = 1
-version = "0.0.5"
+version = "0.0.6"
