@@ -160,7 +160,8 @@
             "font_style": "italic"
           },
           "constant": {
-            "color": "#ffffff"
+            "color": "#c396c3",
+            "font_style": "italic"
           },
           "constructor": {
             "color": "#e4797e"
