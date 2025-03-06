@@ -8,7 +8,7 @@
       "appearance": "dark",
       "style": {
         "background": "#2d3134ee",
-        "background.appearance": "blurred",
+        "background.appearance": "opaque",
         "border": "#3d4851",
         "border.disabled": "#3d485150",
         "border.focused": "#3d4851",
